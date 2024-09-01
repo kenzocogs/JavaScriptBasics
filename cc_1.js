@@ -33,3 +33,21 @@ console.log (accountBalance)
 accountBalance %= 40
 console.log (accountBalance)
 
+const employeeScore1 = 97
+const employeeScore2 = 61
+
+employeeScore1 > employeeScore2
+employeeScore1 < employeeScore2
+employeeScore1 >= employeeScore2
+employeeScore1 <= employeeScore2
+employeeScore1 === employeeScore2
+employeeScore1 !== employeeScore2
+
+console.log (
+    employeeScore1 > employeeScore2, 
+    employeeScore1 < employeeScore2,
+    employeeScore1 >= employeeScore2, 
+    employeeScore1 <= employeeScore2, 
+    employeeScore1 === employeeScore2,
+    employeeScore1 !== employeeScore2,
+            )

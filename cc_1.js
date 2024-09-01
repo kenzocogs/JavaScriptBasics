@@ -15,3 +15,21 @@ const productDetails = {
 }
 console.log(products, productDetails)
 
+let accountBalance = 727
+console.log (accountBalance)
+
+accountBalance += 1738
+console.log(accountBalance)
+
+accountBalance -= 411
+console.log (accountBalance)
+
+accountBalance *= 19
+console.log (accountBalance)
+
+accountBalance /= 1.3
+console.log (accountBalance)
+
+accountBalance %= 40
+console.log (accountBalance)
+
